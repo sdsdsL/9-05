@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 9.5 «Prometheus. Ч. 2»
+# Домашнее задание к занятию 9.5 «Prometheus. Ч. 2» - Беляев Денис
 
 ---
 
@@ -20,8 +20,8 @@
 
 *Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.*
 
-![alt text](https://github.com/sdsdsL/9-04/blob/main/img/9-5-2-1.png)
-![alt text](https://github.com/sdsdsL/9-04/blob/main/img/9-5-2-2.png)
+![alt text](https://github.com/sdsdsL/9-05/blob/main/img/9-5-2-1.png)
+![alt text](https://github.com/sdsdsL/9-05/blob/main/img/9-5-2-2.png)
 
 ---
 
@@ -32,8 +32,8 @@
 
 *Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
-![alt text](https://github.com/sdsdsL/9-04/blob/main/img/9-5-3-1.png)
-![alt text](https://github.com/sdsdsL/9-04/blob/main/img/9-5-3-2.png)
+![alt text](https://github.com/sdsdsL/9-05/blob/main/img/9-5-3-1.png)
+![alt text](https://github.com/sdsdsL/9-05/blob/main/img/9-5-3-2.png)
 
 ---
 ## Дополнительные задания со звёздочкой*
